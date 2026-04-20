@@ -160,6 +160,7 @@ http://localhost:5173
 ## Author
 
 Mehul Batham  
+Yathartha Jain
 Engineering Student (Information Technology)
 
 
