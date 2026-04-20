@@ -159,9 +159,9 @@ http://localhost:5173
 
 ## Author
 
-Mehul Batham  
+Mehul Batham 
 Yathartha Jain
-Engineering Student (Information Technology)
+Engineering Students (Information Technology)
 
 
 ## License
