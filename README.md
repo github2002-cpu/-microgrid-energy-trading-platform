@@ -159,8 +159,8 @@ http://localhost:5173
 
 ## Author
 
-Mehul Batham 
-Yathartha Jain
+-Mehul Batham 
+-Yathartha Jain
 Engineering Students (Information Technology)
 
 
